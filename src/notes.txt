@@ -1,0 +1,12 @@
+import React from 'react'
+import { StyleSheet, Text, View, Route } from 'react-native'
+
+interface RoutesProp{
+
+}
+
+export const Routes: React.FC<RoutesProp> = ({}) => {
+    return ();
+}
+
+const styles = StyleSheet.create({})
